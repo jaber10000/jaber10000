@@ -32,7 +32,7 @@
 
 ###
 
-<h6 align="left">I am a passionate Computer Science Engineer from Bangladesh<br><br>🔭 I’m currently Studying Computer Science<br>🌱 I’m currently learning React, NLP, CNN, AI etc<br>⚡ In my free time I like playing cricket and playing mobile games</h6>
+<h6 align="left">I am a passionate Computer Science Engineer from Bangladesh<br><br>🔭 I’m currently Studying Computer Science<br>🌱 I’m currently learning NLP, CNN, AI etc, <br>⚡ In my free time I like playing cricket and playing mobile games</h6>
 
 ###
 
