@@ -18,9 +18,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaber10000.jaber10000&left_color=indigo"  />
-</div>
+
 
 ###
 
