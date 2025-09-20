@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey There! 👋</h1>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-abdullah-al-jaber-699a1a266/" target="_blank">
@@ -14,14 +14,6 @@
   </a>
 </div>
 
-###
-
-
-
-###
-
-
-###
 
 <h3 align="center">👩‍💻  About Me</h3>
 
