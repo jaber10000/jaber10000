@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/145854189?s=400&u=df0ae1fb673ad8439613a58fd72b4e80f99e86af&v=4"  />
-</div>
 
+<h1 align="center">Hey There! 👋</h1>
 ###
 
 <div align="center">
@@ -22,7 +20,6 @@
 
 ###
 
-<h1 align="center">Hey There! 👋</h1>
 
 ###
 
