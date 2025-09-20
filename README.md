@@ -27,7 +27,8 @@
 
 ###
 
-<h6 align="left">I am a passionate Computer Science Engineer from Bangladesh<br><br>🔭 I’m currently Studying Computer Science<br>🌱 I’m currently learning NLP, CNN, AI etc, <br>⚡ In my free time I like playing cricket and playing mobile games</h6>
+<h6 align="left">I have recently completed my undergraduate studies, and I am a passionate Machine Learning Engineer. I work with CNN and NLP-based classification models and also deploy them using Flask.
+Besides machine learning, I am also a React-based frontend developer, and I have an interest in backend development with Django. I am eager to keep learning more about Artificial Intelligence and grow my expertise in this field.</h6>
 
 ###
 
