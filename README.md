@@ -45,9 +45,6 @@ I am a passionate Machine Learning Engineer & React Developer. I build CNN & NLP
 <h3 align="center">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=jaber10000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&cache_seconds=0" height="220" alt="GitHub Streak Stats" />
-
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jaber10000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=0" height="150" alt="GitHub Stats" />
 
