@@ -49,7 +49,9 @@ I am a passionate Machine Learning Engineer & React Developer. I build CNN & NLP
 <img src="https://github-readme-stats.vercel.app/api?username=jaber10000&show_icons=true&theme=dracula&cache_seconds=0" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaber10000&layout=compact&langs_count=10&theme=dracula&hide_border=false&cache_seconds=0" height="150" alt="Top Languages" />
+ 
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaber10000&layout=compact&langs_count=10&theme=dracula&cache_seconds=0" />
 </div>
 
 ---
