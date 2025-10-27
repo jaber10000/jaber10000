@@ -17,7 +17,7 @@
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
-I am a passionate Machine Learning Engineer & React Developer. I build CNN & NLP-based models, deploy them using Flask, and also enjoy frontend & backend development. Constantly learning AI and web technologies to grow professionally.
+I am a passionate Machine Learning Engineer & React Developer. I build CNN & NLP-based models, deploy them using Flask  and Hugging Face spaces, and also enjoy frontend & backend development. Constantly learning AI and web technologies to grow professionally.
 </p>
 
 ---
