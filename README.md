@@ -308,7 +308,11 @@ Projects covering CNN image classification, OCR-based image-to-text extraction, 
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaber10000&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+  <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaber10000&theme=tokyonight"
+  alt="GitHub Profile Summary"
+  width="100%"
+/>
 
 </div>
 
