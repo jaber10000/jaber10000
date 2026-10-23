@@ -18,6 +18,7 @@
 
 <p align="center">
 I am a passionate Machine Learning Engineer & React Developer. I build CNN & NLP-based models, deploy them using Flask  and Hugging Face spaces, and also enjoy frontend & backend development. Constantly learning AI and web technologies to grow professionally.
+Portfolio: https://jaber-portfolio.web.app/
 </p>
 
 ---
